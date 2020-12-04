@@ -2,4 +2,10 @@
 
 The purpose of this repository is to provide an interactive demo (by way of a Jupyter notebook) of how a simple moving average trading strategy works.
 
-I will update this readme as work progresses.
+# Dependencies
+
+* yfinance: for getting the stock price data - https://pypi.org/project/yfinance/
+
+# Overview
+
+The file sma.ipynb in this repo contains the Jupyter notebook for the interactive demo of a simple moving average (SMA) trading strategy.
