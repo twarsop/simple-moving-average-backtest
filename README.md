@@ -4,6 +4,7 @@ The purpose of this repository is to provide an interactive demo (by way of a Ju
 
 # Dependencies
 
+* matplotlib: for visualisations - https://pypi.org/project/matplotlib/ 
 * yfinance: for getting the stock price data - https://pypi.org/project/yfinance/
 
 # Overview
