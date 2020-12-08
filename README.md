@@ -4,7 +4,9 @@ The purpose of this repository is to provide an interactive demo (by way of a Ju
 
 # Dependencies
 
+* math: for math functions
 * matplotlib: for visualisations - https://pypi.org/project/matplotlib/ 
+* pandas: for storing and manipulating data in dataframes - https://pypi.org/project/pandas/ 
 * yfinance: for getting the stock price data - https://pypi.org/project/yfinance/
 
 # Overview
